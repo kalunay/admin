@@ -1,0 +1,10 @@
+AddDefaultCharset UTF-8
+Options +FollowSymLinks
+Options -Indexes
+DirectoryIndex index.php
+RewriteEngine on
+RewriteCond $1 !^(index\.php|images|mailer|robots\.txt|public)
+RewriteCond %{REQUEST_URI} !\.(css¦js¦jpg¦gif)$
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ /_admin/index.php/$1 [L,QSA] 

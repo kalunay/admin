@@ -1,0 +1,11 @@
+AddDefaultCharset utf-8
+#AddHandler application/x-httpd-php5 .php
+Options +FollowSymLinks
+Options -Indexes
+DirectoryIndex index.php
+RewriteEngine on
+RewriteCond $1 !^(index\.php|_admin/mailer|robots\.txt)
+RewriteCond %{REQUEST_URI} !\.(css¦js¦jpg¦gif)$
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ /index.php/$1 [L,QSA] 

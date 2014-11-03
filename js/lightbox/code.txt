@@ -1,0 +1,5 @@
+
+<script type="text/javascript" src="/js/lightbox/jquery.js"></script>
+<script type="text/javascript" src="/js/lightbox/jquery.lightbox.js"></script>
+<link rel="stylesheet" type="text/css" href="/js/lightbox/jquery.lightbox.css">
+<script type="text/javascript" src="/js/lightbox/logic.js"></script>

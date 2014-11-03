@@ -1,0 +1,64 @@
+<?
+$lang['cancel'] = 'Отмена';
+$lang['new_name'] = 'Новое описание';
+$lang['correct_photo_name'] = 'Изменить';
+$lang['edit_photo'] = 'Изменить описание';
+
+$lang['action'] = 'Действия';
+$lang['make_a_choice'] = 'выбрать...';
+$lang['del_selected_photo'] = 'Удалить отмеченные фото';
+$lang['disable_selected_photo'] = 'Скрыть отмеченные фото';
+$lang['enable_selected_photo'] = 'Показать отмеченные фото';
+$lang['copy_selected_photo_to'] = 'Скопировать отмеченные фото в';
+$lang['move_selected_photo_to'] = 'Перенести отмеченные фото в';
+$lang['show_per_page'] = 'Показывать на странице';
+$lang['mark'] = 'Отметить все';
+$lang['unmark'] = 'Снять отметку со всех';
+$lang['size'] = 'Размер';
+$lang['modyfy_date'] = 'Изменён';
+$lang['disable_photo'] = 'Скрыть';
+$lang['enable_photo'] = 'Показать';
+$lang['all'] = 'Все';
+$lang['del_selected'] = 'Удалить отмеченные';
+$lang['enable_selected'] = 'Скрыть отмеченные';
+$lang['disable_selected'] = 'Показать отмеченные';
+$lang['are_you_sure'] = "Вы уверены, что хотите сделать это?"; 
+$lang['upload_more'] = "Загрузить ещё фото";
+$lang['head_content+gallery'] = 'Галереи сайта';
+$lang['upload pictures'] = 'Загрузить фото';
+$lang['upload'] = 'Загрузить';
+$lang['clear'] = 'Очистить';
+$lang['reset'] = 'Сбросить';
+
+$lang['msg_item_saved'] = 'Изменения сохранены';
+
+$lang['form_file_name'] = 'Название файла';
+$lang['form_title_window'] = 'Тайтл галереи';
+$lang['msg_pagegroup_copied'] = 'Группа страниц скопированна';
+$lang['msg_pagegroup_deleeted'] = 'Группа страниц удалена';
+$lang['add_gallery'] = 'Добавить галерею';
+$lang['content+gallery-id'] = 'ID';
+$lang['content+gallery-pos'] = 'Поз';
+$lang['content+gallery-title'] = 'Загловок';
+$lang['content+gallery-publish'] = 'Показать на сайте';
+$lang['content+gallery-date'] = 'Дата изменения';
+$lang['content+gallery-edit'] = 'Редактирование';
+$lang['edit'] = 'Редактировать';
+$lang['delete'] = 'Удалить';
+$lang['form_title'] = 'Название галереи';   
+$lang['form_alias'] = 'Алиас';
+$lang['form_text'] = 'Текст';
+$lang['form_publish'] = 'Публикация';
+$lang['form_publish_yes'] = 'Публиковать';
+$lang['form_publish_no'] = 'Не публиковать';
+$lang['submit_add'] = 'Добавить';
+$lang['submit_edit'] = 'Сохранить';
+$lang['submit_delete'] = 'Удалить';
+
+$lang['gallery_cat_parent'] = "Родительская галерея";
+$lang['show_childs'] = "Показать подчиненные галереи";
+$lang['show_childs'] = "Показать подчиненные галереи";
+$lang['cat_none']="Галерея отсутствует";
+$lang['msg_item_added']="Галерея добавлена";
+$lang['confirm_delete']="Удаление галереи ";
+$lang['msg_item_deleted']="Галерея удалена";
